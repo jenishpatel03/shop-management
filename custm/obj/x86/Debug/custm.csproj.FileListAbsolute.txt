@@ -1,0 +1,13 @@
+c:\users\ajay\documents\visual studio 2010\Projects\custm\custm\bin\Debug\custm.exe
+C:\Users\Ajay\Documents\Visual Studio 2010\Projects\custm\custm\obj\x86\Debug\custm.Form1.resources
+C:\Users\Ajay\Documents\Visual Studio 2010\Projects\custm\custm\obj\x86\Debug\custm.Form2.resources
+C:\Users\Ajay\Documents\Visual Studio 2010\Projects\custm\custm\obj\x86\Debug\custm.Form3.resources
+C:\Users\Ajay\Documents\Visual Studio 2010\Projects\custm\custm\obj\x86\Debug\custm.Form4.resources
+C:\Users\Ajay\Documents\Visual Studio 2010\Projects\custm\custm\obj\x86\Debug\custm.Form5.resources
+C:\Users\Ajay\Documents\Visual Studio 2010\Projects\custm\custm\obj\x86\Debug\custm.Form6.resources
+C:\Users\Ajay\Documents\Visual Studio 2010\Projects\custm\custm\obj\x86\Debug\custm.Properties.Resources.resources
+C:\Users\Ajay\Documents\Visual Studio 2010\Projects\custm\custm\obj\x86\Debug\custm.csproj.GenerateResource.Cache
+C:\Users\Ajay\Documents\Visual Studio 2010\Projects\custm\custm\obj\x86\Debug\custm.exe
+C:\Users\Ajay\Documents\Visual Studio 2010\Projects\custm\custm\obj\x86\Debug\custm.pdb
+C:\Users\Ajay\Documents\Visual Studio 2010\Projects\custm\custm\obj\x86\Debug\custm.csprojResolveAssemblyReference.cache
+C:\Users\Ajay\documents\visual studio 2010\Projects\custm\custm\bin\Debug\custm.pdb
